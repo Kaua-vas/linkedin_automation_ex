@@ -1,4 +1,3 @@
-```markdown
 # 🚀 LinkedIn Post Automation
 Automação de postagens no LinkedIn usando a API oficial com OAuth2. Desenvolvido em Python com Flask para o fluxo de autenticação.
 
